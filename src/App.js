@@ -1,7 +1,9 @@
+import Registration from "./components/Registration";
+
 function App() {
   return (
     <div className="App">
-      <h1>formik form</h1>
+      <Registration />
     </div>
   );
 }
