@@ -15,5 +15,5 @@ In this project, basic form validation is handled out, and the form will not be 
 
 ## How it looks
 
-![form_ss](https://user-images.githubusercontent.com/99599542/213881152-9eff6aff-2291-41dc-a4d8-766b15cf5187.png)
 
+![localhost_3000_](https://user-images.githubusercontent.com/99599542/213881436-6c45ff18-df92-468e-a18a-2b39d07c4902.png)
