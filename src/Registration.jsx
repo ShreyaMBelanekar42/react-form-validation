@@ -23,6 +23,12 @@ const Registration = () => {
   return (
     <>
       <div className="container">
+        <div className="image-div">
+          <img
+            src="https://images.unsplash.com/photo-1588091210060-1ee4fab270ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Ym9va3MlMjBhbmQlMjBsYXB0b3B8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+            alt="image"
+          />
+        </div>
         <form onSubmit={handleSubmit}>
           <div className="text-block">
             <h2>Welcome!</h2>
@@ -126,12 +132,6 @@ const Registration = () => {
             <a href="/">Sign in</a>
           </div>
         </form>
-        <div className="image-div">
-          <img
-            src="https://images.unsplash.com/photo-1588091210060-1ee4fab270ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Ym9va3MlMjBhbmQlMjBsYXB0b3B8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
-            alt="image"
-          />
-        </div>
       </div>
     </>
   );
